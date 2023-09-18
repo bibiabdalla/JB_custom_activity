@@ -26,21 +26,21 @@
             "foundSignupDate": ""
           }
         ],
-        "url": "https://sfmc-demo-abb201b6298e/journeybuilder/execute"
+        "url": "https://sfmc-demo/journeybuilder/execute"
       }
     },
     "configurationArguments": {
       "save": {
-        "url": "https://sfmc-demo-abb201b6298e/save"
+        "url": "https://sfmc-demo/save"
       },
       "publish": {
-        "url": "https://sfmc-demo-abb201b6298e/publish"
+        "url": "https://sfmc-demo/publish"
       },
       "validate": {
-        "url": "https://sfmc-demo-abb201b6298e/validate"
+        "url": "https://sfmc-demo/validate"
       },
       "stop": {
-        "url": "https://sfmc-demo-abb201b6298e/stop"
+        "url": "https://sfmc-demo/stop"
       }
     },
     "wizardSteps": [
