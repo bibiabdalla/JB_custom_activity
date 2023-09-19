@@ -34,8 +34,8 @@
     },
     "configurationArguments": {
       "save": {
-        // "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/save"
-        "url": "https://hooks.zapier.com/hooks/catch/15068473/3rpqzxd/save"
+         "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/save"
+       // "url": "https://hooks.zapier.com/hooks/catch/15068473/3rpqzxd/save"
       },
       "publish": {
         // "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/publish"
