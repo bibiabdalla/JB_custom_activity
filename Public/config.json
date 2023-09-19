@@ -28,8 +28,8 @@
             "foundSignupDate": ""
           }
         ],
-        // "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/execute"
-        "url": "https://hooks.zapier.com/hooks/catch/15068473/3rpqzxd/execute"
+        "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/execute"
+       // "url": "https://hooks.zapier.com/hooks/catch/15068473/3rpqzxd/execute"
       }
     },
     "configurationArguments": {
