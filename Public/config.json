@@ -29,21 +29,21 @@
           }
         ],
         "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/execute"
-       // "url": "https://hooks.zapier.com/hooks/catch/15068473/3rpqzxd/execute"
+      
       }
     },
     "configurationArguments": {
       "save": {
          "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/save"
-       // "url": "https://hooks.zapier.com/hooks/catch/15068473/3rpqzxd/save"
+       
       },
       "publish": {
-        // "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/publish"
-        "url": "https://hooks.zapier.com/hooks/catch/15068473/3rpqzxd/publish"
+        "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/publish"
+        
       },
       "validate": {
          "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/validate"
-        // "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/validate"
+       
       },
       "stop": {
         "url": "https://sfmc-demo-abb201b6298e.herokuapp.com/stop"
