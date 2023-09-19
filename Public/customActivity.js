@@ -1,4 +1,4 @@
-
+console.log('hello bibi')
 
 define(["postmonger"], function (Postmonger) {
   "use strict";
