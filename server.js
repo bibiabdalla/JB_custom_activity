@@ -5,7 +5,7 @@ const app = express();
 
 // Serve static files from the 'public' directory
 // app.use(express.static('public'));
-app.use(cors());
+// app.use(cors());
 
 // Middleware to serve static files
 //  app.use('/js', express.static(path.join(__dirname, 'js')));
