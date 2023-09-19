@@ -8,7 +8,8 @@ const app = express();
 // app.use(cors());
 
 // Middleware to serve static files
- app.use('/js', express.static(path.join(__dirname, 'js')));
+// app.use('/js', express.static(path.join(__dirname, 'js')));
+ app.use(express.static('./Public'));
 
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'index.html'));
