@@ -15,10 +15,12 @@
       "execute": {
         "inArguments": [
           {
-            "emailAddress": "{{InteractionDefaults.Email}}"
+           // "emailAddress": "{{InteractionDefaults.Email}}"
+            "emailAddress": "abdalla.corostl@gmail.com"
           },
           {
-            "phoneNumber": "{{Contact.Default.PhoneNumber}}"
+           // "phoneNumber": "{{Contact.Default.PhoneNumber}}"
+            "phoneNumber": "612-470-6512"
           }
         ],
         "outArguments": [
